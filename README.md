@@ -1,1 +1,0 @@
-# live-weather-js-project
